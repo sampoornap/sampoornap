@@ -3,7 +3,12 @@
 i am a fourth-year compsci and engineering undergrad from kolkata, wb and bentonville, arkansas. I am very interested in AI and how it can be used to build inclusive and responsible tech.
 currently working on some cool research projects + applying to grad school!
 
+right now - 
 
+1. socrAItes : a socrated based coding tutor using llms
+2. my undergrad thesis
+
+   
 exciting stuff -
 
 1. diagnobot : a medical conversation and diagnostic chatbot
