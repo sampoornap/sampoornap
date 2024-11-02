@@ -1,7 +1,26 @@
 ## Hi there 👋
 
-I am a fourth-year compsci and engineering undergrad from Kolkata, India and Bentonville, Arkansas. I am very interested in AI and how it can be used to build inclusive and responsible tech.
-Currently working on some cool research projects + applying to grad school!
+i am a fourth-year compsci and engineering undergrad from kolkata, wb and bentonville, arkansas. I am very interested in AI and how it can be used to build inclusive and responsible tech.
+currently working on some cool research projects + applying to grad school!
+
+
+exciting stuff -
+
+1. diagnobot : a medical conversation and diagnostic chatbot
+2. shakespeareGPT : gpt from scratch
+3. x-assistant : a voice based assistant using llms
+4. naivecontextcue : lower baseline for a language learning app
+
+
+course projects - 
+
+1. an end-to-end compiler written from scratch using C
+2. interpreter of a made-up-programming-language using racket
+3. a todo command using bash
+4. simulation of a computer with instructions and memory using verilog
+5. implementing a neural network from scratch
+6. a cool music playlist recommendation system
+
 <!--
 **sampoornap/sampoornap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
