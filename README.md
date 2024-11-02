@@ -19,12 +19,12 @@ exciting stuff -
 
 course projects - 
 
-1. an end-to-end compiler written from scratch using C
-2. interpreter of a made-up-programming-language using racket
-3. a todo command using bash
-4. simulation of a computer with instructions and memory using verilog
-5. implementing a neural network from scratch
-6. a cool music playlist recommendation system
+1. an end-to-end compiler written from scratch using C  ([compiler-design](https://github.com/sampoornap/compiler-design))
+2. interpreter of a made-up-programming-language using racket   ([mupl](https://github.com/sampoornap/mupl))
+3. a todo command using bash   ([todo](https://github.com/sampoornap/todo))
+4. simulation of a computer with instructions and memory using verilog   
+5. implementing a neural network from scratch   ([nnfs](https://github.com/sampoornap/nnfs))
+6. a cool music playlist recommendation system   ([muzique](https://github.com/sampoornap/muzique))
 
 <!--
 **sampoornap/sampoornap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
