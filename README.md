@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a fourth-year compsci and engineering undergrad from Kolkata, India and Bentonville, Arkansas. I am very interested in AI and how it can be used to build inclusive and responsible tech.
+Currently working on some cool research projects + applying to grad school!
 <!--
 **sampoornap/sampoornap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
