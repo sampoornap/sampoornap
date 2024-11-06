@@ -6,7 +6,7 @@ currently working on some cool research projects + applying to grad school!
 right now - 
 
 1. MedEcho : medical patient emulator
-2. my undergrad thesis - socrAItes : intelligent tutoring sysem
+2. my undergrad thesis - socrAItes : intelligent tutoring system
 
    
 exciting stuff -
